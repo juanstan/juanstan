@@ -1,6 +1,8 @@
 {
   "name": "juanstan",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "e92eb049"
 }
